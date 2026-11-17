@@ -1,0 +1,8 @@
+DATABASE_URL=postgresql://user:password@host:5432/dbname
+ADMIN_SETUP_KEY=
+CHARIOW_PULSE_SECRET=
+RESEND_API_KEY=
+EMAIL_FROM="Herman FASHION <contact@votre-domaine.com>"
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-4o-mini
+NEXT_PUBLIC_SITE_URL=https://votre-domaine.com
